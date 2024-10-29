@@ -22,3 +22,4 @@ transformersではなく，vLLMを使用する場合に指定．vLLMを使用す
 ```bash
 python app.py --use-vllm --launch-mode network
 ```
+使い方はasset/molmo-app_demo.mp4を参照
