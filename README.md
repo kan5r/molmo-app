@@ -2,7 +2,7 @@
 
 ## 環境構築
 ```bash
-git clone https://zaku.sys.es.osaka-u.ac.jp/k.yanagida/molmo-app.git
+git clone https://github.com/kan5r/molmo-app.git
 conda create -n molmo python=3.10
 conda activate molmo
 pip install -r requirements.txt
